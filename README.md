@@ -1,6 +1,7 @@
 mhrs_app - Mobil Final Ödevi
 
   Bu proje, Sağlık Bakanlığı'nın MHRS (Merkezi Hekim Randevu Sistemi) uygulamasının temel işlevlerini içeren bir mobil uygulamadır.
+  
 -Kullanılan Teknolojiler:
   *Flutter & Dart
 -Uygulama Ekran Görüntüleri:
